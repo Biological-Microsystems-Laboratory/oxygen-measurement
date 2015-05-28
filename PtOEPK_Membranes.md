@@ -1,4 +1,5 @@
 How to make PtOEPK Membranes:
+=========
 
 1. Spin an 100-microns-PDMS layer
 2. Bake it at 85C for 15 min
@@ -9,4 +10,3 @@ How to make PtOEPK Membranes:
 7. Once it is cool down, remove the polystyrene carefully from the wafer
 8. Rinse the wafer with IPA 
 9. Cut the purple membrane with a razor and be ready to use it
- 
