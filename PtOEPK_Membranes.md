@@ -1,4 +1,4 @@
-How to make PtOEPK Membranes:
+How to make PtOEPK PDMS Membranes:
 =========
 
 1. Prepare a 100 micrometer thick PDMS membrane on a wafer.
