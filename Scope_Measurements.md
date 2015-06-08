@@ -1,7 +1,6 @@
 #Scope Measurement Protocol
 ---------------------------
 Program: MetaMorph Premier
-![] (http://www.bbmicro.com/products/images/metamorph.gif)
 
 ####Magnification should be 4X 
 ####FOCUS so channels AND sensor are visible
